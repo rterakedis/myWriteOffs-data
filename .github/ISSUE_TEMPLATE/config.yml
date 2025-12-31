@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Question or Discussion
+    url: https://github.com/yourorg/myWriteOffs-data/discussions
+    about: Ask questions or discuss ideas about the data
+  - name: Main App Issues
+    url: https://github.com/yourorg/myWriteOffs/issues
+    about: Report issues with the myWriteOffs app itself
