@@ -64,6 +64,16 @@ Thumbs.db
 # Scraped data (raw, before processing)
 scripts/raw_data/
 scripts/temp/
+scripts/*.log
+scripts/scraper.log
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+env.bak/
+venv.bak/
 
 # Backup files
 *.bak
